@@ -1,0 +1,6203 @@
+{
+    "Tell Your World": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": 25
+    },
+    "ネクストネスト": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "メルト": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "初音ミクの消失": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 22,
+        "EXPERT": 30,
+        "MASTER": 35,
+        "APPEND": null
+    },
+    "Blessing": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "alive": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ロキ": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 28
+    },
+    "テオ": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "ヒバナ -Reloaded-": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": 34
+    },
+    "ハッピーシンセサイザ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "Nostalogic": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ツギハギスタッカート": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "劣等上等": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 30
+    },
+    "ドクター＝ファンクビート": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "フラジール": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "ブリキノダンス": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "スイートマジック": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": 25
+    },
+    "ぼうけんのしょがきえました！": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "シャルル": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "ハロ／ハワユ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "自傷無色": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 17,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "needLe": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "アイドル新鋭隊": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Ready Steady": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 16,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "セカイはまだ始まってすらいない": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "悔やむと書いてミライ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "セカイ": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 28
+    },
+    "ワーワーワールド": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 29
+    },
+    "アスノヨゾラ哨戒班": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ニア": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "Just Be Friends": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "脱法ロック": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "命に嫌われている": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ワールドイズマイン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ダンスロボットダンス": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Hand in Hand": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "夜咄ディセイブ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Gimme×Gimme": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ビバハピ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 31
+    },
+    "ジャンキーナイトタウンオーケストラ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ミラクルペイント": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "on the rocks": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "携帯恋話": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "39みゅーじっく！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 27
+    },
+    "青く駆けろ！": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": 30
+    },
+    "ステラ": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "Leia  Remind": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ジャックポットサッドガール": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "メルティランドナイトメア": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "乙女解剖": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "potatoになっていく": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 25
+    },
+    "ローリンガール": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "モア！ジャンプ！モア！": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 30
+    },
+    "裏表ラバーズ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "アンノウン・マザーグース": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "愛されなくても君がいる": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ウミユリ海底譚": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Forward": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "独りんぼエンヴィー": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "ニジイロストーリーズ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ODDS＆ENDS": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ドラマツルギー": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "グリーンライツ・セレナーデ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "恋愛裁判": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 22,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "＊ハロー、プラネット。": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 10,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "千本桜": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 26,
+        "MASTER": 32,
+        "APPEND": 31
+    },
+    "ECHO": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": 29
+    },
+    "チュルリラ・チュルリラ・ダッダッダ！": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ブレス・ユア・ブレス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "とても痛い痛がりたい": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 30
+    },
+    "霽れを待つ": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ワールズエンド・ダンスホール": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ヒビカセ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Color of Drops": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 26
+    },
+    "RAD DOGS": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 32
+    },
+    "ミルククラウン・オン・ソーネチカ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "タイムマシン": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "drop pop candy": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ポジティブ☆ダンスタイム": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Brand New Day": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": 35
+    },
+    "限りなく灰色へ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ワンスアポンアドリーム": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "ボッカデラベリタ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "みくみくにしてあげる♪【してやんよ】": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "威風堂々": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "from Y to Y": {
+        "unit": "Leo/need",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "初音ミクの激唱": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 30,
+        "MASTER": 34,
+        "APPEND": null
+    },
+    "天使のクローバー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "お気に召すまま": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "どりーみんチュチュ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "アイディスマイル": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": 26
+    },
+    "「1」": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 28
+    },
+    "花を唄う": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "夜に駆ける": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "幽霊東京": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "シネマ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 29
+    },
+    "KING": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 28
+    },
+    "アイノマテリアル": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "いかないで": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 27
+    },
+    "ロミオとシンデレラ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "泡沫未来": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 30
+    },
+    "トンデモワンダーズ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": 33
+    },
+    "カナデトモスソラ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": 24
+    },
+    "トラフィック・ジャム": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "フロムトーキョー": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Beat Eater": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 28
+    },
+    "六兆年と一夜物語": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 29,
+        "MASTER": 35,
+        "APPEND": 35
+    },
+    "地球最後の告白を": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": 32
+    },
+    "ビターチョコデコレーション": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "そうだった！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "カゲロウデイズ": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": 33
+    },
+    "アイスドロップ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "Glory Steady Go!": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "チルドレンレコード": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "magic number": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "流星のパルス": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "カトラリー": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "再生": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "群青讃歌": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": 29
+    },
+    "炉心融解": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ロストワンの号哭": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "マシンガンポエムドール": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 35,
+        "APPEND": null
+    },
+    "ベノム": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "拝啓ドッペルゲンガー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "テレキャスタービーボーイ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 31
+    },
+    "トキヲ・ファンカ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "悪魔の踊り方": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "だれかの心臓になれたなら": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "マシュマリー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "右肩の蝶": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ray": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "Hello,world!": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "しっくおぶはうす！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ショウタイム・ルーラー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": 31
+    },
+    "Happy Halloween": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": 26
+    },
+    "ロウワー": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 30
+    },
+    "初音天地開闢神話": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "オルターエゴ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "STAGE OF SEKAI": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "からくりピエロ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ワールドワイドワンダー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "悪ノ娘": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "悪ノ召使": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "去り人達のワルツ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ラストスコア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "フィクサー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "ミライ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ゴーストルール": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "ヴィラン": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "サンドリヨン 10th Anniversary": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "少女レイ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": 27
+    },
+    "ガランド": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "エンドマークに希望と涙を添えて": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 35,
+        "APPEND": null
+    },
+    "the EmpErroR": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 36,
+        "APPEND": null
+    },
+    "Don't Fight The Music": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 30,
+        "MASTER": 35,
+        "APPEND": null
+    },
+    "にっこり^^調査隊のテーマ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "トリコロージュ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "心拍数♯0822": {
+        "unit": "Leo/need",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "うっせぇわ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "踊": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "君色マリンスノウ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "愛して愛して愛して": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Flyer!": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "Peaky Peaky": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ジウダス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ナンセンス文学": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "心予報": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "僕らまだアンダーグラウンド": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Miku": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "メタモリボン": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "いーあるふぁんくらぶ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 26
+    },
+    "雨とペトラ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ノマド": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": 25
+    },
+    "マトリョシカ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ドーナツホール 2024": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 33
+    },
+    "砂の惑星": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ルカルカ★ナイトフィーバー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ピアノ×フォルテ×スキャンダル": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "千年の独奏歌": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "88☆彡": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": 32
+    },
+    "ONESELF": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": 33
+    },
+    "PaⅢ.SENSATION": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ダーリンダンス": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "オーダーメイド": {
+        "unit": "Leo/need",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 21,
+        "MASTER": 26,
+        "APPEND": 24
+    },
+    "アイデンティティ": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "青色絵具": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "コスモスパイス": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "徳川カップヌードル禁止令": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "サラマンダー": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "イフ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 29
+    },
+    "ブラック★ロックシューター": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "妄想感傷代償連盟": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 26
+    },
+    "リモコン": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "月光": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "神のまにまに": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Awake Now": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": 29
+    },
+    "阿吽のビーツ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "バグ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 32,
+        "APPEND": 31
+    },
+    "グッバイ宣言": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 27
+    },
+    "ヴァンパイア": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 27
+    },
+    "未完成讃歌": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "星空のメロディー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "脳漿炸裂ガール": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 15,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "ぼくらの16bit戦争": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "メリュー": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "エイリアンエイリアン": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "街": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "てらてら": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "フロイライン＝ビブリォチカ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "踊れオーケストラ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "パラソルサイダー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ロストエンファウンド": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "YY": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 29
+    },
+    "それでもいいんだよ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "君の夜をくれ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 21,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "フューチャー・イヴ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "Voices": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ジェヘナ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": 31
+    },
+    "Calc.": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "虚ろを扇ぐ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 30
+    },
+    "Journey": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 32
+    },
+    "天ノ弱": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "アンハッピーリフレイン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "フォニイ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ダブルラリアット": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 28
+    },
+    "インビジブル": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "エゴロック": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Bad ∞ End ∞ Night": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "トリノコシティ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "こちら、幸福安心委員会です。": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "DAYBREAK FRONTLINE": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 29
+    },
+    "ÅMARA(大未来電脳)": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 34,
+        "APPEND": null
+    },
+    "DREAM PLACE": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "泥中に咲く": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "いちにのさんで": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": 24
+    },
+    "帝国少女": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Change me": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ラブカ？": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "the WALL": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Iなんです": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 33
+    },
+    "パラジクロロベンゼン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "星屑ユートピア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "フレー": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "あったかいと": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "フロート・プランナー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ノンブレス・オブリージュ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 32
+    },
+    "ロンリーユニバース": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "陽だまりのセツナ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "仮死化": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "What's up? Pop!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 22,
+        "EXPERT": 31,
+        "MASTER": 37,
+        "APPEND": null
+    },
+    "腐れ外道とチョコレゐト": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 21,
+        "EXPERT": 30,
+        "MASTER": 35,
+        "APPEND": null
+    },
+    "夜もすがら君想ふ": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ネトゲ廃人シュプレヒコール": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "カンタレラ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "FREELY TOMORROW": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "気まぐれメルシィ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "それがあなたの幸せとしても": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "リンちゃんなう！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "フェレス": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "夜明けと蛍": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": 25
+    },
+    "星空オーケストラ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Flyway": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "p.h.": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Goodbye": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "SnowMix♪": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "星界ちゃんと可不ちゃんのおつかい合騒曲": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 29,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "天使の翼。": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Copycat": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "レイニースノードロップ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "アイロニ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "1925": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "私は、私達は": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ひつじがいっぴき": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Hello, Worker": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Where shall we go?": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 21,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "ココロ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ストロボラスト": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "パレットには君がいっぱい": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Q": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ヤミナベ!!!!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 37,
+        "APPEND": null
+    },
+    "Booo!": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "39": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Mr. Showtime": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "エゴイスト": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "エピローグに君はいない": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "Highlight": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "アトラクトライト": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ザムザ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 30
+    },
+    "トラッシュ・アンド・トラッシュ！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Vampire's ∞ pathoS": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Be The MUSIC!": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 20,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "METEOR": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "インタビュア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "私の恋はヘルファイア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "スノーマン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "深海少女": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "魔法みたいなミュージック！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "相生": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "名も無き革命": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "おこちゃま戦争": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "絶え間なく藍色": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "命ばっかり": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ももいろの鍵": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "キティ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "快晴": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "悪食娘コンチータ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "眠らせ姫からの贈り物": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "円尾坂の仕立屋": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "悪徳のジャッジメント": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Sharing The World": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "セツナトリップ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "シャンティ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "エターナルアリア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Blue Star": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "箱庭のコラル": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 29
+    },
+    "人生": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 37,
+        "APPEND": null
+    },
+    "Wonder Style": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "下剋上": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "嗚呼、素晴らしきニャン生": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "スターダストメドレー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "チームメイト": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "glow": {
+        "unit": "Leo/need",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": 25
+    },
+    "とても素敵な六月でした": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "UNDERWATER": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "きゅうくらりん": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Afterglow": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "太陽系デスコ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "心拍ペアリング": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "演劇": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "星を繋ぐ": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 27
+    },
+    "脳内革命ガール": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Decade": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "我らステインバスターズ！": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "新人類": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ずんだパーリナイ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Disco No.39": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "サマータイムレコード": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "リアライズ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "キラピピ★キラピカ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ボトルケーキ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "心做し": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "ブループラネット": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "HERO": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "CIRCUS PANIC!!!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "白い雪のプリンセスは": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Un-Lock": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ラッキー☆オーブ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "NEO": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 32
+    },
+    "アイムマイン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 26
+    },
+    "天樂": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "まにまに": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "メランコリック": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "豚になってyeah yeah": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "恋は戦争": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "デビルじゃないもん": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "すきなことだけでいいです": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "番凩": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "神っぽいな": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Dear": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "CR詠ZY": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Cool Me Down": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "悪役にキスシーンを": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "我儘姫": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "purpose": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "はぐ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 29
+    },
+    "トワイライトライト": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": 27
+    },
+    "春嵐": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ARQETYPE": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 21,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "On&On": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "キュートなカノジョ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "フィラメントフィーバー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "さよならプリンセス": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Beyond the way": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "ショウタイム×オーディエンス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "難聴系男子が倒せない": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "オーバーコード": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "スロウダウナー": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "初めての恋が終わる時": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "25時の情熱": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 22,
+        "MASTER": 25,
+        "APPEND": null
+    },
+    "金木犀": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "一千光年": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "強風オールバック": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ヒアソビ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "エンヴィーベイビー": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "『んっあっあっ。』": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "くうになる": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ハイドアンド・シーク": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "folern": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 21,
+        "EXPERT": 30,
+        "MASTER": 32,
+        "APPEND": 35
+    },
+    "MOTTO!!!": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 29
+    },
+    "Sage": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 21,
+        "EXPERT": 29,
+        "MASTER": 32,
+        "APPEND": 36
+    },
+    "心泥夢(syndrome)": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "サイバーパンクデッドボーイ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "MarbleBlue.": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 21,
+        "EXPERT": 30,
+        "MASTER": 33,
+        "APPEND": 37
+    },
+    "マーシャル・マキシマイザー": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "え？あぁ、そう。": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "リレイアウター": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "おどロボ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "世界を照らすテトラッド": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": 30
+    },
+    "ハッピーチートデー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "十六歳の心臓": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "limbo": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "レグルス": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "古書屋敷殺人事件": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "JUMPIN’ OVER !": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ラグトレイン": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": 25
+    },
+    "インテグラル": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "ド屑": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "明鏡止水": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ハジメテノオト": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "flos": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "アコトバ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "幽光、1/fのゆらめき": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "嬢王": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 24,
+        "EXPERT": 31,
+        "MASTER": 33,
+        "APPEND": 36
+    },
+    "1000年生きてる": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "幾望の月": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": 32
+    },
+    "blender": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "えれくとりっく・えんじぇぅ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "レッドランドマーカー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "あいのうた": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ガーネットの涙": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "だんだん早くなる": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "私は雨": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "酔いどれ知らず": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "おぎゃりないざー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 34,
+        "APPEND": 37
+    },
+    "シルバーコレクター": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "すれすれ": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "烈火": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "超最終鬼畜妹フランドール・S": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": 35
+    },
+    "Bad Apple!! feat.SEKAI": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 31
+    },
+    "Help me, ERINNNNNN!!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 32
+    },
+    "おちゃめ機能": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ときめきジェットコースター": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "東京テディベア": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 28,
+        "MASTER": 31,
+        "APPEND": 34
+    },
+    "熱異常": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "I know 愛脳.": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "だめにんげんだ!": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "オペラ！スペースオペラ！": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "抜錨": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "きょうもハレバレ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Supernova": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 27
+    },
+    "エンパープル": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "合成するミライ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "LEADER": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ポッピンキャンディ☆フィーバー！": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ULTRA C": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ダイジョブですか？": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 34,
+        "APPEND": 37
+    },
+    "成敗いたAAAAAす！": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "林檎売りの泡沫少女": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "メリーゴーラウンド": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "マインドブランド": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "イガク": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "あちこちデートさん": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "キラー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": 33
+    },
+    "WAVE": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 30
+    },
+    "彗星ノ銀河": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 21,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "夏夜ノ唄": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "QUEEN": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "アンテナ39": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ちがう!!!": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "スーパーヒーロー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "カルチャ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "レイヤーノート": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 21,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "それでも僕らは歌うことをやめない": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Unpoison": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "熱風": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 29,
+        "APPEND": 31
+    },
+    "モザイクロール (Reloaded)": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "メズマライザー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "如月アテンション": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "メインキャラクター": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "コールボーイ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "きみとぼくのレゾナンス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "転生林檎": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 20,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Blackjack": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Shadow Shadow": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "生命性シンドロウム": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 29,
+        "MASTER": 33,
+        "APPEND": 36
+    },
+    "化けの花": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "キャットフード": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "メモリア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 23,
+        "EXPERT": 31,
+        "MASTER": 34,
+        "APPEND": 37
+    },
+    "脳天": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "フューエル": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "その音が鳴るなら": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "妄想アスパルテーム": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "キャットラビング": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ぼくのかみさま": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 27
+    },
+    "パリィ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "みかぼし": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "余花にみとれて": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 21,
+        "MASTER": 25,
+        "APPEND": null
+    },
+    "シークレット・シーカー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "はしる! とおく! とどく!": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "花溺れ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "はじまりの未来": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "混沌ブギ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 33
+    },
+    "アンヘル": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": 33
+    },
+    "プロトディスコ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 32,
+        "APPEND": 34
+    },
+    "CH4NGE": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "snooze": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 32,
+        "APPEND": 33
+    },
+    "ワールド・ランプシェード [reunion]": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "のだ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 33
+    },
+    "サイハテ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Henceforth": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "厨病激発ボーイ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "ヘイヴン": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "夏に透明": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "パンダヒーロー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "結ンデ開イテ羅刹ト骸": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ファイアダンス": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "そこに在る、光。": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "Worlders": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "FUN!!": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "終焉逃避行": {
+        "unit": "Leo/need",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "スマイル*シンフォニー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "SToRY": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "クリスタルスノウ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "ハローセカイ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "アンチユー": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ルルブ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "フュージョン": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": 34
+    },
+    "ルーマー": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "Fire◎Flower (Rerec)": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "三日月ステップ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "オーバーライド": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Packaged": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "ライアーダンサー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "プラネットヒーロー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "透明エレジー": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "D/N/A": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ドレミファロンド": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "Sympathy": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "Call!!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "吉原ラメント 再来盤": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "マンハッタン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "クイーンオブハート": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "バレリーコ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "花に風": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "スーサイドパレヱド": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 32
+    },
+    "星宙メランコリア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "回る空うさぎ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 21,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "オールセーブチャレンジ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "チルノのパーフェクトさんすう学園": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 33
+    },
+    "とうほう☆ワンダーランド": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 32
+    },
+    "超ナイト・オブ・ナイツ": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 33,
+        "APPEND": 36
+    },
+    "虚無さん": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "紗痲": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "失敗作少女": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "フィッシュアンドTips": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Connecting": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "エンヴィキャットウォーク": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "イレヴンス": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "光線歌": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "テトリス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": 29
+    },
+    "このふざけた素晴らしき世界は、僕の為にある": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "モニタリング": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "庭師のおはなしによると": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Twilight Melody": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "M@GICAL☆CURE! LOVE ♥ SHOT!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Hello Builder": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "imaginary love story": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Intergalactic Bound": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "笑えたらえーやん！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "アイリッド": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "透明なパレット": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "エクスプロウル": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ありのままのストーリーを": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 28
+    },
+    "生きる": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": 32
+    },
+    "花弁、それにまつわる音声": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "マリオネットダンサー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Life Will Change": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "アクセラレイト": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": 32
+    },
+    "Surges": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "リリィララ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "SAN値直葬": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 21,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": 36
+    },
+    "飾って": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ラストラス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "サヨナラ天国また来て地獄": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "8.32": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "あの夏が飽和する。": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "深海シティアンダーグラウンド": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ブラッドドール": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "偽物人間40号": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ペンタトニック": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "おどりゃんせ": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "少女A": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "東京サマーセッション": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ヴィーナス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ハウトゥー世界征服": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "げんてん": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "人マニア": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "㋰責任集合体": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ロストアンブレラ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ホワイトハッピー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ネクラチューンサーカス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 24,
+        "EXPERT": 31,
+        "MASTER": 34,
+        "APPEND": 37
+    },
+    "カレシのジュード": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "パメラ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "スター": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "あなたの空が泣くのなら": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 21,
+        "MASTER": 25,
+        "APPEND": null
+    },
+    "アベリア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ルマ": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ロケットサイダー": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "その絵の名前は": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 15,
+        "EXPERT": 22,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "金時計": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "征け": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "ファイター": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "IMAWANOKIWA": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 32,
+        "APPEND": 35
+    },
+    "怪獣になりたい": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 10,
+        "NORMAL": 16,
+        "HARD": 25,
+        "EXPERT": 32,
+        "MASTER": 35,
+        "APPEND": 38
+    },
+    "0.0000034": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 15,
+        "HARD": 24,
+        "EXPERT": 31,
+        "MASTER": 34,
+        "APPEND": 37
+    },
+    "花結び": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "電光刹歌": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ウィーアーピコピコハンマーズ!!!!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 32,
+        "APPEND": null
+    },
+    "ジェットブラック": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "トレジャーガーデン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "最愛人生ランナー": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "い～やい～やい～や": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ドリーム・キス": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Polar Star": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 24,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ぼかろころしあむ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ヤンキーボーイ・ヤンキーガール": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "魔法少女とチョコレゐト": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "上弦の月": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "惑星ループ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 28
+    },
+    "黒塗り世界宛て書簡": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "君が飛び降りるのならば": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "鎖の少女-Re Alive-": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Internet Junk Junkie": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "幸福刑": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "透過する温度": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "好き！雪！本気マジック": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Snow Fairy Story": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "雪が解ける前に": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "スターナイトスノウ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 14,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "四角い地球を丸くする": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "アイ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ぽかぽかの星": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "Fondant Step": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 26,
+        "APPEND": null
+    },
+    "SHIAWASE FOR YOU!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "アリア": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "幕を下ろそう、パレードへ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "Ribbon": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ハオ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "このまんまでいこう": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "とびだせ！わんだぴょい": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "erase or zero": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "About me": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 6,
+        "NORMAL": 11,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ラムネ": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Catch the Wave": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "カラフルファンデーション": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "バイオレンストリガー": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ラヴィ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "アルカリレットウセイ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "天藍のアイスヘヴン": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 20,
+        "EXPERT": 28,
+        "MASTER": 33,
+        "APPEND": null
+    },
+    "告白": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": 27
+    },
+    "傀儡のうつつ": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": 30
+    },
+    "ダイダイダイダイダイキライ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ワンダーラスト": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "あいしていたのに": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 10,
+        "HARD": 16,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "フロイライン＝オジョウサマ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 20,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "Nyanyanyanyanyanyanya!": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "T氏の話を信じるな": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ヘッジホッグ": {
+        "unit": "Leo/need",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "CRASH THE PARTY": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "Who?": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "導火愛": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "世界の歩き方": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "魔法少女幸福論": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "星に一番近い場所": {
+        "unit": "Leo/need",
+        "EASY": 9,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "羽歌": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 28,
+        "APPEND": 30
+    },
+    "卑怯戦隊うろたんだー": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "あなたしか見えないの": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "比較症候群": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 19,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ストラタでまちあわせ": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 5,
+        "NORMAL": 12,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "ドリーマーズビート": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "プロポーズ": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ラズベリー＊モンスター": {
+        "unit": "Leo/need",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 19,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "いますぐ輪廻": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "初音狂奏曲第01番「彗惺」": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 21,
+        "EXPERT": 31,
+        "MASTER": 34,
+        "APPEND": 37
+    },
+    "永遠甚だしい": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "ひかりのあつめかた": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "旅に帰る": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 23,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "オールイン・ワン": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 9,
+        "NORMAL": 13,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "SAIRAI": {
+        "unit": "その他",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 16,
+        "EXPERT": 22,
+        "MASTER": 27,
+        "APPEND": null
+    },
+    "CHAOS": {
+        "unit": "その他",
+        "EASY": 7,
+        "NORMAL": 14,
+        "HARD": 21,
+        "EXPERT": 27,
+        "MASTER": 33,
+        "APPEND": 35
+    },
+    "Saika": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": null
+    },
+    "99 Glooms": {
+        "unit": "その他",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "ANiMA": {
+        "unit": "その他",
+        "EASY": 9,
+        "NORMAL": 14,
+        "HARD": 21,
+        "EXPERT": 29,
+        "MASTER": 33,
+        "APPEND": 36
+    },
+    "Masquerade": {
+        "unit": "その他",
+        "EASY": 6,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 25,
+        "MASTER": 30,
+        "APPEND": 31
+    },
+    "Gimme more!": {
+        "unit": "MORE MORE JUMP!",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 24,
+        "MASTER": 28,
+        "APPEND": 29
+    },
+    "天才ロック": {
+        "unit": "ワンダーランズ×ショウタイム",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 27,
+        "MASTER": 30,
+        "APPEND": null
+    },
+    "アイ・メイカー！": {
+        "unit": "VIRTUAL SINGER",
+        "EASY": 8,
+        "NORMAL": 13,
+        "HARD": 18,
+        "EXPERT": 26,
+        "MASTER": 31,
+        "APPEND": null
+    },
+    "光": {
+        "unit": "25時、ナイトコードで。",
+        "EASY": 7,
+        "NORMAL": 12,
+        "HARD": 18,
+        "EXPERT": 24,
+        "MASTER": 29,
+        "APPEND": null
+    },
+    "ハナタバ": {
+        "unit": "Vivid BAD SQUAD",
+        "EASY": 5,
+        "NORMAL": 11,
+        "HARD": 17,
+        "EXPERT": 25,
+        "MASTER": 28,
+        "APPEND": null
+    }
+}
