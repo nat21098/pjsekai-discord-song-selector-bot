@@ -262,17 +262,17 @@ def save_user_settings(guild_id, user_id, settings):
 def get_settings_text(rank_str, unit_str, diff_str, lv_str):
     return (
         "**【現在の設定】**\n"
-        f"🏆 **ランク**　: {rank_str}\n"
-        f"🎤 **ユニット**: {unit_str}\n"
-        f"🎵 **難易度**: {diff_str}\n"
-        f"🔢 **レベル**: {lv_str}"
+        f" **ランク**　: {rank_str}\n"
+        f" **ユニット**: {unit_str}\n"
+        f" **難易度**: {diff_str}\n"
+        f" **レベル**: {lv_str}"
     )
 
 def get_ui_embed(rank_str="指定なし", unit_str="指定なし", diff_str="指定なし", lv_str="指定なし"):
     status_text = get_settings_text(rank_str, unit_str, diff_str, lv_str)
     embed = discord.Embed(
-        title="🎮 プロセカ選曲アプリUI",
-        description=f"下のメニューから条件を選んでから「🎲 ランダム選曲」を押してください。\n\n{status_text}",
+        title=" プロセカ選曲アプリUI",
+        description=f"下のメニューから条件を選んでから「 ランダム選曲」を押してください。\n\n{status_text}",
         color=0x33bbee
     )
     return embed
@@ -465,7 +465,7 @@ class SongSelectorUI(discord.ui.View):
             self.selected_rank_label = None
         await self.update_embed(interaction)
 
-    @discord.ui.button(label="🎲 ランダム選曲", style=discord.ButtonStyle.primary, custom_id="btn_draw")
+    @discord.ui.button(label=" ランダム選曲", style=discord.ButtonStyle.primary, custom_id="btn_draw")
     async def btn_draw(self, interaction: discord.Interaction, button: discord.ui.Button):
         results = []
         for s in songs_db:
@@ -481,7 +481,7 @@ class SongSelectorUI(discord.ui.View):
             if m: results.append(s)
         
         if not results:
-            await interaction.response.send_message("❌ 条件に合う曲が見つかりませんでした。", ephemeral=True)
+            await interaction.response.send_message(" 条件に合う曲が見つかりませんでした。", ephemeral=True)
             return
             
         s = random.choice(results)
@@ -506,7 +506,7 @@ bot = MyClient(intents=intents)
 @bot.tree.command(name="app", description="アプリ（UI）モードでプロセカ選曲を開きます")
 async def slash_app(interaction: discord.Interaction):
     if not is_authorized(interaction.guild_id, interaction.user.id):
-        await interaction.response.send_message("❌ このBotを利用する権限がありません。", ephemeral=True)
+        await interaction.response.send_message(" このBotを利用する権限がありません。", ephemeral=True)
         return
     guild_id = interaction.guild_id if interaction.guild_id else "DM"
     view = SongSelectorUI(guild_id, interaction.user.id)
@@ -520,7 +520,7 @@ async def slash_app(interaction: discord.Interaction):
 @bot.tree.command(name="config", description="現在の選曲アプリの設定を確認します")
 async def slash_config(interaction: discord.Interaction):
     if not is_authorized(interaction.guild_id, interaction.user.id):
-        await interaction.response.send_message("❌ このBotを利用する権限がありません。", ephemeral=True)
+        await interaction.response.send_message(" このBotを利用する権限がありません。", ephemeral=True)
         return
     guild_id = interaction.guild_id if interaction.guild_id else "DM"
     view = SongSelectorUI(guild_id, interaction.user.id)
@@ -530,18 +530,18 @@ async def slash_config(interaction: discord.Interaction):
         ", ".join(view.selected_diff_labels) if view.selected_diff_labels else "指定なし",
         ", ".join(view.selected_level_labels) if view.selected_level_labels else "指定なし"
     )
-    embed = discord.Embed(title="⚙️ 現在の設定確認", description=f"保存されている設定は以下の通りです。`/app` で変更できます。\n\n{status_text}", color=0x33bbee)
+    embed = discord.Embed(title=" 現在の設定確認", description=f"保存されている設定は以下の通りです。`/app` で変更できます。\n\n{status_text}", color=0x33bbee)
     await interaction.response.send_message(embed=embed)
 
 @bot.tree.command(name="random", description="条件テキストを指定して選曲します（例: ln,vbs m29-31）")
 @app_commands.describe(query="選曲条件（例: ln,vbs m29-） 省略で全曲ランダム")
 async def slash_random(interaction: discord.Interaction, query: str = ""):
     if not is_authorized(interaction.guild_id, interaction.user.id):
-        await interaction.response.send_message("❌ このBotを利用する権限がありません。", ephemeral=True)
+        await interaction.response.send_message(" このBotを利用する権限がありません。", ephemeral=True)
         return
     if not query or query.lower() == "all":
         if not songs_db:
-            await interaction.response.send_message("❌ 楽曲データが見つかりません。")
+            await interaction.response.send_message(" 楽曲データが見つかりません。")
             return
         s = random.choice(songs_db)
         embed = discord.Embed(title=s['title'], description=f"{s['diff']} Lv.{s['lv']}\n{s['unit']}", color=DIFFICULTY_COLORS.get(s['diff']))
@@ -551,18 +551,18 @@ async def slash_random(interaction: discord.Interaction, query: str = ""):
         q = SongQuery("/" + query)
         results = [s for s in songs_db if q.matches(s)]
         if not results:
-            await interaction.response.send_message("❌ 条件に合う曲が見つかりませんでした。")
+            await interaction.response.send_message(" 条件に合う曲が見つかりませんでした。")
             return
         s = random.choice(results)
         embed = discord.Embed(title=s['title'], description=f"{s['diff']} Lv.{s['lv']}\n{s['unit']}", color=DIFFICULTY_COLORS.get(s['diff']))
         await interaction.response.send_message(embed=embed)
     except Exception as e:
-        await interaction.response.send_message(f"❌ 条件の解析に失敗しました: {e}", ephemeral=True)
+        await interaction.response.send_message(f" 条件の解析に失敗しました: {e}", ephemeral=True)
 
 @bot.tree.context_menu(name="選曲アプリを開く")
 async def context_app(interaction: discord.Interaction, message: discord.Message):
     if not is_authorized(interaction.guild_id, interaction.user.id):
-        await interaction.response.send_message("❌ このBotを利用する権限がありません。", ephemeral=True)
+        await interaction.response.send_message(" このBotを利用する権限がありません。", ephemeral=True)
         return
     guild_id = interaction.guild_id if interaction.guild_id else "DM"
     view = SongSelectorUI(guild_id, interaction.user.id)
@@ -575,17 +575,17 @@ async def context_app(interaction: discord.Interaction, message: discord.Message
 
 @bot.event
 async def on_ready():
-    print(f"✅ Bot Online: {bot.user}")
+    print(f" Bot Online: {bot.user}")
     if ALLOWED_GUILDS:
         for guild in bot.guilds:
             if guild.id not in ALLOWED_GUILDS:
-                print(f"⚠️ 許可されていないサーバー({guild.name})を検知したため、退出します。")
+                print(f" 許可されていないサーバー({guild.name})を検知したため、退出します。")
                 await guild.leave()
 
 @bot.event
 async def on_guild_join(guild):
     if ALLOWED_GUILDS and guild.id not in ALLOWED_GUILDS:
-        print(f"⚠️ 許可されていないサーバー({guild.name})に追加されたため、退出しました。")
+        print(f" 許可されていないサーバー({guild.name})に追加されたため、退出しました。")
         await guild.leave()
 
 @bot.event
@@ -622,40 +622,40 @@ async def on_message(message):
 
     if cmd == 'help':
         embed = discord.Embed(
-            title="📖 プロセカ選曲Bot 操作マニュアル", 
+            title="プロセカ選曲Bot 操作マニュアル", 
             color=0x33bbee, 
             description="本Botを使用する際は、メンション（`@プロセカ選曲Bot`）の後に `/コマンド` を入力してください。\n使用例: `@プロセカ選曲Bot /app`"
         )
         embed.add_field(
-            name="🎮 基本コマンド一覧", 
+            name="基本コマンド一覧", 
             value="**`/app`** : GUIメニューを起動し、ボタン操作にて選曲条件の設定および選曲を行います。\n"
                   "**`/all`** : 登録済み全楽曲の中からランダムに1曲を抽選します。\n"
                   "**`/config`** : 現在保存されている選曲条件の設定内容を表示します。", 
             inline=False
         )
         embed.add_field(
-            name="⌨️ テキストによる条件指定 (`/[条件]`)", 
+            name="テキストによる条件指定 (`/[条件]`)", 
             value="テキスト形式で選曲条件を直接指定することが可能です。\n"
                   "使用例: `@プロセカ選曲Bot /ln m 29-31`（レオニ / MASTER / Lv.29〜31）", 
             inline=False
         )
         embed.add_field(
-            name="🎵 難易度の指定（アルファベット）", 
+            name="難易度の指定（アルファベット）", 
             value="`e`：EASY　`n`：NORMAL　`h`：HARD　`x`：EXPERT　`m`：MASTER　`a`：APPEND",
             inline=False
         )
         embed.add_field(
-            name="🎤 ユニットの指定", 
+            name="ユニットの指定", 
             value="`vs`：バーチャル・シンガー　`ln`：Leo/need　`mmj`：MORE MORE JUMP!　`vbs`：Vivid BAD SQUAD　`ws`：ワンダーランズ×ショウタイム　`25nc`：25時、ナイトコードで。　`oth`：その他",
             inline=False
         )
         embed.add_field(
-            name="🔢 レベルの指定（数字）", 
+            name="レベルの指定（数字）", 
             value="`25`：Lv.25のみ　`25-28`：Lv.25〜28　`28-`：Lv.28以上　`-25`：Lv.25以下",
             inline=False
         )
         embed.add_field(
-            name="🚫 除外指定および複合条件の指定", 
+            name="除外指定および複合条件の指定", 
             value="条件の先頭に `-` を付加することで、該当条件を除外することができます。\n"
                   "（例: `-a`：APPEND以外　`-28-`：Lv.28以上を除外）\n"
                   "複数の条件を指定する場合は、**半角スペース**で区切って入力してください。\n"
@@ -681,7 +681,7 @@ async def on_message(message):
             ", ".join(view.selected_diff_labels) if view.selected_diff_labels else "指定なし",
             ", ".join(view.selected_level_labels) if view.selected_level_labels else "指定なし"
         )
-        embed = discord.Embed(title="⚙️ 現在の設定確認", description=text, color=0x33bbee)
+        embed = discord.Embed(title=" 現在の設定確認", description=text, color=0x33bbee)
         await message.reply(embed=embed, mention_author=False)
     elif cmd == 'all':
         s = random.choice(songs_db)
@@ -692,7 +692,7 @@ async def on_message(message):
             q = SongQuery("/" + cmd + " " + query)
             res = [s for s in songs_db if q.matches(s)]
             if not res:
-                await message.reply("❌ 条件に合う曲が見つかりませんでした。", mention_author=False)
+                await message.reply(" 条件に合う曲が見つかりませんでした。", mention_author=False)
             else:
                 s = random.choice(res)
                 embed = discord.Embed(title=s['title'], description=f"{s['diff']} Lv.{s['lv']}\n{s['unit']}", color=DIFFICULTY_COLORS.get(s['diff']))
