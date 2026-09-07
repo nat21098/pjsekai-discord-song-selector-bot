@@ -622,43 +622,44 @@ async def on_message(message):
 
     if cmd == 'help':
         embed = discord.Embed(
-            title="📖 プロセカ選曲Bot ガイド", 
+            title="📖 プロセカ選曲Bot 操作マニュアル", 
             color=0x33bbee, 
-            description="Botへメンション（`@プロセカ選曲Bot`）し、その後に `/コマンド` を続けて入力してください。\n例: `@プロセカ選曲Bot /app`"
+            description="本Botを使用する際は、メンション（`@プロセカ選曲Bot`）の後に `/コマンド` を入力してください。\n使用例: `@プロセカ選曲Bot /app`"
         )
         embed.add_field(
-            name="🎮 基本コマンド", 
-            value="**`/app`** : GUIメニュー（ボタン・ポップアップ）を開いて条件を設定・選曲します。\n"
-                  "**`/all`** : 全楽曲から完全にランダムで選曲します。\n"
-                  "**`/config`**: 現在アプリで保存されている条件設定を確認します。", 
+            name="🎮 基本コマンド一覧", 
+            value="**`/app`** : GUIメニューを起動し、ボタン操作にて選曲条件の設定および選曲を行います。\n"
+                  "**`/all`** : 登録済み全楽曲の中からランダムに1曲を抽選します。\n"
+                  "**`/config`** : 現在保存されている選曲条件の設定内容を表示します。", 
             inline=False
         )
         embed.add_field(
-            name="⌨️ テキスト条件指定 (`/[条件]`)", 
-            value="チャットのテキストで細かく条件を指定して選曲できます。\n"
-                  "例: `@プロセカ選曲Bot /ln m 29-31` (レオニのMASTER Lv29〜31)", 
+            name="⌨️ テキストによる条件指定 (`/[条件]`)", 
+            value="テキスト形式で選曲条件を直接指定することが可能です。\n"
+                  "使用例: `@プロセカ選曲Bot /ln m 29-31`（レオニ / MASTER / Lv.29〜31）", 
             inline=False
         )
         embed.add_field(
-            name="🎵 難易度の指定 (アルファベット)", 
-            value="`e` (EASY), `n` (NORMAL), `h` (HARD), `x` (EXPERT), `m` (MASTER), `a` (APPEND)\n",
+            name="🎵 難易度の指定（アルファベット）", 
+            value="`e`：EASY　`n`：NORMAL　`h`：HARD　`x`：EXPERT　`m`：MASTER　`a`：APPEND",
             inline=False
         )
         embed.add_field(
             name="🎤 ユニットの指定", 
-            value="`vs` (バチャシン), `ln` (レオニ), `mmj` (モモジャン), `vbs` (ビビバス), `ws` (ワンダショ), `25nc` (ニーゴ), `oth` (その他)\n",
+            value="`vs`：バーチャル・シンガー　`ln`：Leo/need　`mmj`：MORE MORE JUMP!　`vbs`：Vivid BAD SQUAD　`ws`：ワンダーランズ×ショウタイム　`25nc`：25時、ナイトコードで。　`oth`：その他",
             inline=False
         )
         embed.add_field(
-            name="🔢 レベルの指定 (数字)", 
-            value="`25` (Lv25のみ), `25-28` (Lv25〜28), `28-` (Lv28以上), `-25` (Lv25以下)\n",
+            name="🔢 レベルの指定（数字）", 
+            value="`25`：Lv.25のみ　`25-28`：Lv.25〜28　`28-`：Lv.28以上　`-25`：Lv.25以下",
             inline=False
         )
         embed.add_field(
-            name="🚫 除外指定・複合条件", 
-            value="先頭に `-` をつけるとその条件を除外します。（例: `-a` APPEND以外、`-28-` Lv28以上を除外）\n"
-                  "複数の条件は**半角スペース**で区切って組み合わせられます。\n"
-                  "例: `ln -a` (レオニで、APPEND以外)", 
+            name="🚫 除外指定および複合条件の指定", 
+            value="条件の先頭に `-` を付加することで、該当条件を除外することができます。\n"
+                  "（例: `-a`：APPEND以外　`-28-`：Lv.28以上を除外）\n"
+                  "複数の条件を指定する場合は、**半角スペース**で区切って入力してください。\n"
+                  "使用例: `ln -a`（レオニ かつ APPEND以外）", 
             inline=False
         )
         await message.reply(embed=embed, mention_author=False)
