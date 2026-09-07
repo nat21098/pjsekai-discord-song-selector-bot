@@ -5,10 +5,8 @@ import os
 import json
 import traceback
 import re
-from threading import Thread
 from typing import List, Set, Tuple, Optional
 from dotenv import load_dotenv
-from flask import Flask
 
 load_dotenv()
 JSON_PATH = 'songs.json'
@@ -701,22 +699,10 @@ async def on_message(message):
         except:
             pass
 
-# --- ヘルスチェック用サーバー（Render / Koyeb などPaaSのポート待受要件に対応） ---
-health_app = Flask(__name__)
-
-@health_app.route("/")
-def health():
-    return "Bot is online."
-
-def run_health_server():
-    port = int(os.environ.get("PORT", 8080))
-    health_app.run(host="0.0.0.0", port=port)
-
 # --- 起動ブロック ---
 if __name__ == "__main__":
     token = os.getenv('DISCORD_BOT_TOKEN')
     if not token:
         print("Error: DISCORD_BOT_TOKEN is not set.")
     else:
-        Thread(target=run_health_server).start()
         bot.run(token)
